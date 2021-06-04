@@ -1,0 +1,6 @@
+Hey I’m Blake Lamb. I’m a Full Stack Web Developer currently working for MotivHealth Insurance company. I enjoy learning and working with JavaScript based frameworks. I mainly work with Angular and Node, but have also worked with other technologies like React, C#, Python and others. In my free time I like to do things with my family and watch the Utah Jazz. I’m currently learning more advanced Javascript concepts as well as some newer technologies like NgRx and Deno. I’m looking to collaborate on a cool open source technology or non-profit project, but I don't really know how to get involved, so I'm trying to break into that. If you're looking to reach me, you can email me at blake.lamb31@gmail.com. You can also find more about me on my website, blakelamb.com
+
+<!---
+blamb31/blamb31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
