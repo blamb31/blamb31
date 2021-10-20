@@ -1,4 +1,4 @@
-Hey I’m Blake Lamb. I’m a Full Stack Web Developer currently working for MotivHealth Insurance company. I enjoy learning and working with JavaScript based frameworks. I mainly work with Angular and Node, but have also worked with other technologies like React, C#, Python and others. 
+Hey I’m Blake Lamb. I’m a Full Stack Web Developer currently working for Vinli. I enjoy learning and working with JavaScript based frameworks. I mainly work with Angular, Vue and Node, but have also worked with other technologies like React, C#, Python and others. 
 
 In my free time I like to do things with my family and watch the Utah Jazz. I also really enjoy going camping and visiting State and National Parks. 
 
